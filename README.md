@@ -20,6 +20,18 @@ Provide a comprehensive explanation of your software here. Dive into its core fu
 2. **Feature 2:** Brief description.
 3. **...:** Continue listing out the core features of your application.
 
+## 🖼️ Screenshots
+
+To give you a visual overview of the application, here are some screenshots:
+
+### [Feature or Page Name]
+![Description of Image](http://link-to-your-image.com/image1.png)
+
+### [Another Feature or Page Name]
+![Description of Image](http://link-to-your-image.com/image2.png)
+
+Add more screenshots as needed. Ensure to replace placeholders with appropriate links and descriptions.
+
 ## ⚠️ Warning
 
 **Changing the repository name is NOT allowed.** Renaming this repository can cause issues with the peer review feature integrated into this template. 
